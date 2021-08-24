@@ -1,3 +1,3 @@
 # Doc-Reader
-## Perspective document reader
-### It read the perspective document into front view
+## It detect the edges of the document and get the point of corners
+## Create perspective transformation by these corner points
